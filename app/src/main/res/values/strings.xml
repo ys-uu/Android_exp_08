@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">杨松2024110540</string>
+    <string name="weather_title">天气详情</string>
+    <string name="weather_title_city">%1$s 天气</string>
+    <string name="weather_update_time">数据时间：%1$s    气象台更新：%2$s</string>
+    <string name="weather_current_temp">%1$s℃</string>
+    <string name="weather_current_type_empty">暂无天气现象</string>
+    <string name="weather_today_range">今日温度：%1$s / %2$s</string>
+    <string name="weather_wind">风向风力：%1$s %2$s</string>
+    <string name="weather_humidity">相对湿度：%1$s</string>
+    <string name="weather_air_quality">空气质量：%1$s</string>
+    <string name="weather_pm">PM2.5：%1$s\u0020\u0020\u0020\u0020PM10：%2$s</string>
+    <string name="weather_sun_time">日出：%1$s\u0020\u0020\u0020\u0020日落：%2$s</string>
+    <string name="weather_notice">预报提示：%1$s</string>
+    <string name="weather_life_suggestion">生活建议：%1$s</string>
+    <string name="weather_forecast_date">%1$s %2$s</string>
+    <string name="weather_forecast_temp">%1$s\u0020\u0020%2$s</string>
+    <string name="weather_forecast_wind">%1$s %2$s</string>
+    <string name="weather_error_network">网络请求失败：%1$s</string>
+    <string name="weather_error_network_hint">请检查网络连接，或确认已允许 HTTP 明文访问</string>
+    <string name="weather_error_empty">天气数据为空：%1$s</string>
+    <string name="weather_error_response_invalid">接口返回异常</string>
+    <string name="weather_error_parse">JSON 解析失败：%1$s</string>
+</resources>
